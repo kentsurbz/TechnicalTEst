@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Platform, StyleSheet, Text, View, Image, ScrollView, TextInput, Alert, Dimensions } from 'react-native';
-import Logo from './img_src/Logo.png'
+import Logo from './img_src/logo.png'
 import { CheckBox } from 'react-native-elements'
 import Button from 'react-native-button'
 
@@ -203,7 +203,7 @@ const styles = StyleSheet.create({
   },
   logo: {
     alignItems: 'center',
-    marginTop: 50,
+    marginTop: 80,
     resizeMode: 'contain'
   },
   inputContainer: {

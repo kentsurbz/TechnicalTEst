@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "TechnicalTest",
-    "slug": "TechnicalTest",
+    "name": "TechnicalTestExam",
+    "slug": "technicaltestexam",
     "privacy": "public",
     "sdkVersion": "32.0.0",
     "platforms": [
@@ -24,6 +24,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "",
+    "githubUrl": "https://github.com/kentsurbz/TechnicalTestExam"
   }
 }
