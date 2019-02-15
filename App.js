@@ -177,6 +177,7 @@ export default class App extends Component {
 const styles = StyleSheet.create({
   mainContainer: {
     flex: 1,
+    marginTop:80,
     backgroundColor: 'white',
     alignItems: 'center',
   },
@@ -203,7 +204,6 @@ const styles = StyleSheet.create({
   },
   logo: {
     alignItems: 'center',
-    marginTop: 80,
     resizeMode: 'contain'
   },
   inputContainer: {
