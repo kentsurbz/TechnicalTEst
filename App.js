@@ -145,7 +145,7 @@ export default class App extends Component {
               {this.state.errorPassword}
             </Text>
 
-            <View style={{ flexDirection: 'row' }}>
+            <View style={{marginTop: 10, flexDirection: 'row' }}>
 
               <CheckBox
                 title='Remember me'
